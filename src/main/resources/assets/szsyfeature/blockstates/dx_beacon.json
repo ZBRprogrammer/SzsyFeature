@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "szsyfeature:block/dx_beacon"
+    }
+  }
+}
