@@ -1,8 +1,8 @@
 package com.zombromine.szsyfeature;
 
-import net.minecraft.network.chat.Component;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.ItemStack;
+import com.zombromine.szsyfeature.elements.modBlocks;
+import com.zombromine.szsyfeature.elements.modCreativeTab;
+import com.zombromine.szsyfeature.elements.modItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;

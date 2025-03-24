@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "minecraft:wither_rose"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GRG",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "szsyfeature:dx_beacon"
+  }
+}
